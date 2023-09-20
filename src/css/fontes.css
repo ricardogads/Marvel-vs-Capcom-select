@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'supersquad';
+    
+    src: url('../fontes/Super\ Squad.otf');
+}
+
+@font-face {
+    font-family: 'supersquaditalico';
+    src: url('../fontes/Super\ Squad\ Italic.otf');
+}
